@@ -5,7 +5,8 @@
 🎓 Class of 2024  
 📫 vincent.chencs@gmail.com  
 💼 [Vision Experience](https://drive.google.com/file/d/1amjdmkBT1HNjdXAzhOOh5d0J5aSsp1kI/view?usp=sharing) - [GN&C Experience](https://drive.google.com/file/d/1uJwDdpAFBVKys7rXBYkCLyFdlOv2R7Xg/view?usp=sharing)  
-📰 Publications - [RL for Space Docking](https://www.researchgate.net/publication/370067641_Planning_Autonomous_Spacecraft_Rendezvous_and_Docking_Trajectories_via_Reinforcement_Learning)
+📰 Publications - [RL for Space Docking](https://www.researchgate.net/publication/370067641_Planning_Autonomous_Spacecraft_Rendezvous_and_Docking_Trajectories_via_Reinforcement_Learning)  
+🧑‍🏫 Presentations - [AAS Colorado Breckenridge 2023 GN&C Conference](https://docs.google.com/presentation/d/1PnKZOP27mqJtLG8vqgT4AOFqMHhQYM8q/edit?usp=sharing&ouid=109971343941983675406&rtpof=true&sd=true) - [UCI UROP Symposium](https://drive.google.com/file/d/1_FEOIX83tCbZulyT-LGvWUgFF9Eej4Sw/view?usp=sharing)
 
 
 <!--
