@@ -4,7 +4,7 @@
 📚 Bachelor of Computer Science with focus in Machine Learning  
 🎓 Class of 2024  
 📫 vincent.chencs@gmail.com  
-💼 [Vision Experience]([https://www.google.com](https://drive.google.com/file/d/1amjdmkBT1HNjdXAzhOOh5d0J5aSsp1kI/view?usp=sharing)) - [GN&C Experience](https://drive.google.com/file/d/1uJwDdpAFBVKys7rXBYkCLyFdlOv2R7Xg/view?usp=sharing)  
+💼 [Vision Experience](https://drive.google.com/file/d/1amjdmkBT1HNjdXAzhOOh5d0J5aSsp1kI/view?usp=sharing) - [GN&C Experience](https://drive.google.com/file/d/1uJwDdpAFBVKys7rXBYkCLyFdlOv2R7Xg/view?usp=sharing)  
 📰 Publications - [RL for Space Docking](https://www.researchgate.net/publication/370067641_Planning_Autonomous_Spacecraft_Rendezvous_and_Docking_Trajectories_via_Reinforcement_Learning)
 
 
