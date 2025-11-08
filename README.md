@@ -6,7 +6,7 @@
 📫 vincent.chencs@gmail.com  
 📰 Publications 
 - [RL for Space Docking](https://www.researchgate.net/publication/370067641_Planning_Autonomous_Spacecraft_Rendezvous_and_Docking_Trajectories_via_Reinforcement_Learning)
-- [On-orbit Demonstration of NEI Space Domain Awareness](https://www.researchgate.net/publication/395773467_End-to-End_Autonomous_Mission_Planning_and_Spacecraft_Attitude_Optimization_for_Resident_Space_Object_Imaging)
+- [On-orbit Space Survaliance](https://www.researchgate.net/publication/395773467_End-to-End_Autonomous_Mission_Planning_and_Spacecraft_Attitude_Optimization_for_Resident_Space_Object_Imaging)
 🧑‍🏫 Presentations - [AAS Colorado Breckenridge 2023 GN&C Conference](https://docs.google.com/presentation/d/1PnKZOP27mqJtLG8vqgT4AOFqMHhQYM8q/edit?usp=sharing&ouid=109971343941983675406&rtpof=true&sd=true) - [UCI UROP Symposium](https://drive.google.com/file/d/1_FEOIX83tCbZulyT-LGvWUgFF9Eej4Sw/view?usp=sharing)
 
 
